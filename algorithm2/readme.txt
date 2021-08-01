@@ -1,2 +1,2 @@
 
-To segregate EACH NUMBER COLUMN into 3 columns - international, mobile, landline
+ To separate more than one numbers in a single column
